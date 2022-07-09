@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome valenkita,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
@@ -14,7 +14,7 @@ To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the ter
 
 A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
+Another blue button should appear to click: _ Browser_.
 
 To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
